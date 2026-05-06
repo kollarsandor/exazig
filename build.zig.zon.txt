@@ -1,0 +1,8 @@
+.{
+    .name = .exazig,
+    .fingerprint = 0x9d4ccdb1814cc196,
+    .version = "2.11.0",
+    .minimum_zig_version = "0.14.0",
+    .dependencies = .{},
+    .paths = .{"."},
+}
